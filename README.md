@@ -1,4 +1,5 @@
-# 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=Alphatech29&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 I'm a professional web designer, software/web developer, full stack developer, UI/UX designer, app developer, and blockchain developer with expertise in JavaScript and Node.js, I am highly skilled in creating visually appealing and functional websites, software applications, and mobile apps.<br><br>With a strong foundation in computer science and a passion for staying up-to-date with the latest technologies, I am able to design and develop innovative solutions that meet the unique needs of each project. I have a track record of delivering high-quality projects on time and on budget, and I pride myself on my ability to collaborate effectively with cross-functional teams.<br><br>Whether it's designing a new website or developing a complex software application, I have the knowledge and experience to bring your vision to life. I am confident in my ability to deliver exceptional results and exceed your expectations.
 
 
@@ -12,6 +13,5 @@ I'm a professional web designer, software/web developer, full stack developer, U
 ![](https://github-readme-streak-stats.herokuapp.com/?user= Alphatech29&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username= Alphatech29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id= Alphatech29&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://alphatechw.com ) -->
